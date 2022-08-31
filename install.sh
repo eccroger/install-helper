@@ -8,4 +8,4 @@ ssh root@$1
 vncserver -kill :2
 vncserver
 exit
-ssh root@$1 -L 61000:localhost:5902
+ssh root@$1 -L 61000:localhost:5901
